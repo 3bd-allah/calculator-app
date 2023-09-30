@@ -1,0 +1,18 @@
+
+
+
+.display p , .display sub{
+    float: inline-end;
+    font-size: larger;
+}
+
+.digits button , .operators button{
+    margin: 2px;
+    padding-left: 10px;
+}
+.display sub {
+    color: gray;
+    font-size: small;
+}
+
+
